@@ -9,6 +9,8 @@
 - [本科阶段的工科数学](#本科阶段的工科数学)
 - [硕士阶段的工科数学](#硕士阶段的工科数学)
 
+<img src="https://raw.githubusercontent.com/chubbylhao/Math_ebooks/main/mathematics-png.jpg" style="zoom:80%;" />
+
 ------
 
 #### 本科阶段的工科数学
